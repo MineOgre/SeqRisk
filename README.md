@@ -2,7 +2,7 @@
 
 This repository includes a small demo setup to run the SeqRisk methods.
 
-## 1) Create the environment
+## Step 1 — Create the environment
 
 Create the conda environment from the provided YAML file:
 
