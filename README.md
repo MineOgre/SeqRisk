@@ -2,7 +2,9 @@
 
 
 1- Environment can be created with SeqRisk.yml file
+
 2- Four variants of the model can be run as follows:
+
 For SeqRisk: LVAE+Tranformer ;
 
 python LVAE.py --f=./config_files/SeqRisk-LVAE-Tranformer.txt 
