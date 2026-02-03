@@ -1,0 +1,12 @@
+name: SeqRisk
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - pytorch=2.1.0
+  - gpytorch
+  - lifelines
+  - seaborn
+  - torchvision=0.16.0
+  - wandb
